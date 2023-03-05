@@ -1,2 +1,2 @@
 # StorApp
-Bus Ticket Management System
+Bus Ticket Counter Management System
